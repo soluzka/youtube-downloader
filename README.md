@@ -1,7 +1,7 @@
 # youtube-downloader
 downloads youtube videos
 
-# get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec and python download_youtube.py and pip install pytube and pip install yt-dlp
+# get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec and python download_youtube.py and pip install pytube and pip install yt-dlp and npm install binary-version-check
 visual studio code and it will work like a charm add your email and username to setup.py
 
 # Locate this section in cipher.py
