@@ -15,25 +15,5 @@ function_patterns = [
 # python download_youtube_yt_dlp.py
 # python download_youtube.py
 # Run this after you add the url in the java script. node downloadVideo.js
-# Lifecycle scripts in package.json are predefined script names that npm executes automatically at specific stages during the lifecycle of a package. Here are some common lifecycle scripts you can define:
-{
-  "name": "your-project",
-  "version": "1.0.0",
-  "scripts": {
-    "preinstall": "echo 'Running preinstall script...'",
-    "install": "echo 'Running install script...'",
-    "postinstall": "echo 'Running postinstall script...'",
-    "preuninstall": "echo 'Running preuninstall script...'",
-    "uninstall": "echo 'Running uninstall script...'",
-    "prepublishOnly": "echo 'Running prepublishOnly script...'",
-    "prestart": "echo 'Running prestart script...'",
-    "start": "node downloadVideo.js",
-    "poststart": "echo 'Running poststart script...'",
-    "pretest": "echo 'Running pretest script...'",
-    "test": "echo 'Running test script...'",
-    "posttest": "echo 'Running posttest script...'"
-  }
-}
-
-
-
+# Lifecycle scripts in package.json are predefined script names that npm executes automatically at specific stages during the lifecycle of a package. Here are some common lifecycle scripts you can define: npm init -y
+then if it doesn't work make sure it will by running npm run check && npm run download && npm run
