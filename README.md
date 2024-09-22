@@ -7,3 +7,5 @@ function_patterns = [
 ]
 
 # Ensure the rest of the code remains unchanged
+# run this command
+python download_youtube_yt_dlp.py
