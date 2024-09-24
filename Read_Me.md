@@ -3,6 +3,8 @@ downloads youtube videos
 
 # get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec and python download_youtube.py and pip install pytube and pip install yt-dlp and npm install binary-version-check
 visual studio code and it will work like a charm add your email and username to setup.py
+To run ffmpeg you need  chocolatey and then run this on the terminal of windows. choco install ffmpeg
+Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg
 
 # Locate this section in cipher.py
 function_patterns = [
