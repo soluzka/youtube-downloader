@@ -1,7 +1,7 @@
 # youtube-downloader
 downloads youtube videos
 
-# get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec and python download_youtube.py and pip install pytube and pip install yt-dlp and npm install binary-version-check
+# get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec and python download_youtube.py and pip install pytube youtube-search-python and pip install yt-dlp and npm install binary-version-check
 visual studio code and it will work like a charm add your email and username to setup.py
 To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg
 use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd).
