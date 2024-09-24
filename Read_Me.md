@@ -6,6 +6,7 @@ visual studio code and it will work like a charm add your email and username to 
 To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg
 use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd).
 Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg
+This will do the trick but if you need a converter try using https://github.com/SevenbytesSoftware/SevenConverter
 
 # Locate this section in cipher.py
 function_patterns = [
