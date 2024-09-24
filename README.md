@@ -16,6 +16,7 @@ function_patterns = [
 # Ensure the rest of the code remains unchanged
 
 # Run these commands.
+# node download-yt-dlp.js
 # python download_youtube_yt_dlp.py
 # python download_youtube.py
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
