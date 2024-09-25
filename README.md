@@ -22,6 +22,6 @@ function_patterns = [
 # node index.js
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
 # ffmpeg -i "C:\path\to\your file.mp4" output.mp3
-# Run this after you add the url in the java script. node downloadVideo.js
+# node downloadVideo.js
 # Lifecycle scripts in package.json are predefined script names that npm executes automatically at specific stages during the lifecycle of a package. Here are some common lifecycle scripts you can define: npm init -y
 then if it doesn't work make sure it will by running npm run check && npm run download && npm run
