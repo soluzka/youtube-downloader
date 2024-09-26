@@ -1,7 +1,7 @@
 # youtube-downloader
 downloads youtube videos
 
-# get node.js and python and C# and the dev kit then pip install and npm i youtube-dl-exec npm and install readline-sync and python download_youtube.py and pip install argparse and pip install --upgrade argparse and npm install binary-version-check pip install pytube youtube-search-python yt-dlp requests beautifulsoup4 and it will work like a charm add your email and username to setup.py To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd). Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg This will do the trick but if you need a converter try using https://github.com/SevenbytesSoftware/SevenConverter
+# get node.js and python and C# and the dev kit then npm audit fix --force and pip install selenium cachetools requests and pip install and npm i youtube-dl-exec npm and install readline-sync and python download_youtube.py and pip install argparse and pip install --upgrade argparse and npm install binary-version-check pip install pytube youtube-search-python yt-dlp requests beautifulsoup4 and it will work like a charm add your email and username to setup.py To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd). Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg This will do the trick but if you need a converter try using https://github.com/SevenbytesSoftware/SevenConverter
 
 visual studio code and it will work like a charm add your email and username to setup.py
 To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg
@@ -19,6 +19,7 @@ function_patterns = [
 # python download_youtube_yt_dlp.py
 # python download_youtube.py
 # node download-yt-dlp.js
+# python index.py
 # python app.py
 # node index.js
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
