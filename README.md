@@ -36,7 +36,6 @@ python setup.py bdist_wheel
 # node download-yt-dlp.js
 # python index.py
 # python app.py
-# node index.js
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
 # ffmpeg -i "C:\path\to\your file.mp4" output.mp3
 # node downloadVideo.js
