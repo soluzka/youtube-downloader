@@ -17,7 +17,6 @@ function_patterns = [
 
 # Ensure the rest of the code remains unchanged
 # python download_youtube_yt_dlp.py
-# python download_youtube.py
 # node download-yt-dlp.js
 # python index.py
 # python app.py
