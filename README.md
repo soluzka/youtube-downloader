@@ -1,7 +1,7 @@
 # youtube-downloader
 downloads youtube videos
 
-# get node.js and python and C# and the dev kit then npm audit fix --force and pip install selenium cachetools requests and npm install --package-lock-only and npm i youtube-dl-exec readline-sync and python download_youtube.py and pip install argparse and pip install --upgrade argparse and npm install binary-version-check pip install pytube youtube-search-python yt-dlp requests beautifulsoup4 and pip install youtube-search and it will work like a charm add your email and username to setup.py To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd). Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg This will do the trick but if you need a converter try using https://github.com/SevenbytesSoftware/SevenConverter
+# get node.js and python and C# and the dev kit then To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg use the url function for ffmpeg on sites like twitch or vimeo to have protocols like HLS (.m3u8) or DASH (.mpd). Then use the docker hub application and extension to get it to work type in vs code. docker pull jrottenberg/ffmpeg This will do the trick but if you need a converter try using https://github.com/SevenbytesSoftware/SevenConverter
 
 visual studio code and it will work like a charm add your email and username to setup.py
 To run ffmpeg you need chocolatey and then run this on the terminal of windows. choco install ffmpeg
@@ -16,6 +16,22 @@ function_patterns = [
 ]
 
 # Ensure the rest of the code remains unchanged
+doesn't work install git bash and run this in it for it to work wsl --install
+then run this in umbuntu command promt curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+then run these too in umbuntu command promt nvm install node and nvm use node
+then run this too in umbuntu command promt curl -L -o ffmpeg.zip https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
+run this before you run the umbuntu command npm install -g npm
+umbuntu command npm install -g npm@latest
+umbuntu command npm install -g npm-check-updates
+npm install --no-bin-links
+icacls setup.py /grant *S-1-1-0:RX
+pip install -r requirements.txt -r requirements-dev.txt -r requirements-interactive.txt
+pip install .[dev,interactive]
+python setup.py install
+python setup.py install_npm
+python setup.py sdist
+python setup.py bdist_wheel
+# then run these commands to use the downloader
 # python download_youtube_yt_dlp.py
 # node download-yt-dlp.js
 # python index.py
