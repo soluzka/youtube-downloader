@@ -16,7 +16,6 @@ function_patterns = [
 ]
 
 # Ensure the rest of the code remains unchanged
-Ensure the rest of the code remains unchanged
 you need wsl for the umbuntu virtual environment for windows https://code.visualstudio.com/docs/remote/wsl-tutorial
 doesn't work install git bash and run this in it for it to work wsl --install
 run umbuntu command like these you will have umbuntu after you run the command for git bash sudo apt update 
