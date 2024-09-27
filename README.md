@@ -16,13 +16,21 @@ function_patterns = [
 ]
 
 # Ensure the rest of the code remains unchanged
+Ensure the rest of the code remains unchanged
+you need wsl for the umbuntu virtual environment for windows https://code.visualstudio.com/docs/remote/wsl-tutorial
 doesn't work install git bash and run this in it for it to work wsl --install
+run umbuntu command like these you will have umbuntu after you run the command for git bash sudo apt update 
+and sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev
+then run this after you do that sudo apt install python3.11 and wget https://www.python.org/ftp/python/3.11.3/Python-3.11.3.tgz
 then run this in umbuntu command promt curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 then run these too in umbuntu command promt nvm install node and nvm use node
 then run this too in umbuntu command promt curl -L -o ffmpeg.zip https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
 run this before you run the umbuntu command npm install -g npm
 umbuntu command npm install -g npm@latest
 umbuntu command npm install -g npm-check-updates
+umbuntu command python -m pip install SomePackage
+a few commands to become root user in umbuntu are sudo -i and sudo su
+# and the rest are for visual studio
 npm install --no-bin-links
 icacls setup.py /grant *S-1-1-0:RX
 pip install -r requirements.txt -r requirements-dev.txt -r requirements-interactive.txt
