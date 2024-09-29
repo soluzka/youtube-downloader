@@ -40,7 +40,6 @@ python setup.py sdist
 python setup.py bdist_wheel
 # then run these commands to use the downloader
 # python my_ntpath.py
-# python index.py
 # python app.py
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
 # ffmpeg -i "C:\path\to\your file.mp4" output.mp3
