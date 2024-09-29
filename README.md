@@ -39,7 +39,7 @@ python setup.py install_npm
 python setup.py sdist
 python setup.py bdist_wheel
 # then run these commands to use the downloader
-# python download_youtube_yt_dlp.py
+# python my_ntpath.py
 # python index.py
 # python app.py
 # ffmpeg -i "http://example.com/video.mp4" output.mp3
